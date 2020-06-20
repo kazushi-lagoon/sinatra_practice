@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # frozen_string_literal: true
 
 require 'sinatra'
@@ -102,3 +103,5 @@ delete '/memo/:id' do
 >>>>>>> add_DB
   redirect '/'
 end
+=======
+>>>>>>> parent of 04d91ae... function_ok
