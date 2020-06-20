@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 one
+=======
+first
+>>>>>>> add_DB
